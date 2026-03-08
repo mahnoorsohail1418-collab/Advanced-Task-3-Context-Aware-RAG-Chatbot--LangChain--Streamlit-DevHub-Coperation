@@ -82,30 +82,19 @@ The project consists of the following main modules:
 * Expanding the knowledge base significantly improves response quality.
 * This architecture can be extended with **vector embeddings, semantic search, and large language models** to build more advanced conversational AI systems.
 
-  Requirements
+Requirements
 
 The project requires the following libraries:
-
 Python 3.8+
-
 pandas
-
 numpy
-
 matplotlib
-
 seaborn
-
 torch
-
 torchvision
-
 scikit-learn
-
 joblib
-
 Pillow (PIL)
 
 Install the required dependencies using:
-
 pip install pandas numpy matplotlib seaborn torch torchvision scikit-learn joblib pillow
