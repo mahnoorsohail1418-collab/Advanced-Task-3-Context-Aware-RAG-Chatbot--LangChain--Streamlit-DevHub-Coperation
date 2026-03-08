@@ -85,16 +85,15 @@ The project consists of the following main modules:
 Requirements
 
 The project requires the following libraries:
-Python 3.8+
-pandas
-numpy
-matplotlib
-seaborn
-torch
-torchvision
-scikit-learn
-joblib
-Pillow (PIL)
+Python 3.8+,
+pandas,
+numpy,
+matplotlib,
+seaborn,
+torch,
+torchvision,
+scikit-learn,
+joblib,
+Pillow (PIL).
 
-Install the required dependencies using:
-pip install pandas numpy matplotlib seaborn torch torchvision scikit-learn joblib pillow
+
